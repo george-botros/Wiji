@@ -10,7 +10,7 @@ struct QueryField: NSViewRepresentable {
     qField.delegate = context.coordinator
 
     // styling
-    qField.placeholderString = "Type to Walter"
+    qField.placeholderString = "Type to Wiji"
     qField.isBordered = false
     qField.drawsBackground = false
     qField.focusRingType = .none
