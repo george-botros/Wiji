@@ -1,6 +1,6 @@
 # How to build a widget-style application à la Siri on macOS.
 
-<img src = 'https://user-images.githubusercontent.com/78520093/213989617-81ebb72a-51f2-461c-ad0f-6995c72f3cee.gif' width = '61%' /> <img src = 'https://user-images.githubusercontent.com/78520093/213989655-6fec1769-16c4-4fd0-af6a-1e55a2f64338.gif' width = '38%' />
+<img src = 'https://user-images.githubusercontent.com/78520093/213994366-853a9df1-234b-4707-9d94-d2cfeb803f31.gif' width = '61%' /> <img src = 'https://user-images.githubusercontent.com/78520093/213989655-6fec1769-16c4-4fd0-af6a-1e55a2f64338.gif' width = '38%' />
 
 Widget-style applications provide many advantages over traditional window-based interfaces:
 1. Widget-style interfaces manage their own position on screen, removing that responsibility from the user.
